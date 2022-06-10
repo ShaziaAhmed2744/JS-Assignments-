@@ -1,0 +1,31 @@
+*{
+    color: rgba(26, 31, 104, 0.842);
+    background-color: rgb(188, 230, 247);
+
+ }
+
+
+
+h1 {
+     color: rgba(26, 31, 104, 0.842);
+     background-color: rgb(188, 230, 247);
+ }
+ h3 {
+     color: rgba(78, 76, 182, 0.959);
+     background-color: rgb(128, 241, 241);
+ }
+ 
+ 
+ tr, td {
+     color: rgb(26, 25, 25);
+     background-color: rgb(247, 204, 140);
+
+div {
+    color: rgba(26, 31, 104, 0.842);
+    background-color: rgb(188, 230, 247);
+}
+
+.Container{
+    color: rgba(78, 76, 182, 0.959);
+     background-color: rgb(128, 241, 241);
+}
